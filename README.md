@@ -18,7 +18,7 @@ The College Mess Management System is a web-based application designed to automa
 
 ## 📁 Project Structure
 
-
+```text
 college-mess-management/
 ├── admin/
 ├── assets/
