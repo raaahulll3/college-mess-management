@@ -35,7 +35,7 @@ college-mess-management/
 ├── staff_action.php
 ├── student_reg.php
 ├── student_action.php
-
+```
 
 
 ## 🚀 Setup Instructions
